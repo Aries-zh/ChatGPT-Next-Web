@@ -118,7 +118,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          ChatGPT Next
+          ChatGPT aizy.top
         </div>
         <div className={styles["sidebar-sub-title"]}>
           欢迎关注‘爱思链池’公众号.
